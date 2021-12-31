@@ -15,14 +15,10 @@ namespace argos_lib {
 
   class XboxController : public frc::GenericHID {
    public:
-
     /**
      * @brief Replaces legacy joystick hand API for WPILib
      */
-    enum class JoystickHand {
-      kLeftHand,
-      kRightHand
-    };
+    enum class JoystickHand { kLeftHand, kRightHand };
 
     enum class Button {
       kA = 1,
