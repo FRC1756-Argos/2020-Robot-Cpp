@@ -4,24 +4,23 @@
 
 #pragma once
 
+#include <ctre/Phoenix.h>
 #include <frc2/command/SubsystemBase.h>
 
-class ExampleSubsystem : public frc2::SubsystemBase {
+#include <TimeOfFlight.h>
+
+class ElevatorSubsystem : public frc2::SubsystemBase {
  public:
-  ExampleSubsystem();
+  ElevatorSubsystem();
 
   /**
    * Will be called periodically whenever the CommandScheduler runs.
    */
   void Periodic() override;
 
-  /**
-   * Will be called periodically whenever the CommandScheduler runs during
-   * simulation.
-   */
-  void SimulationPeriodic() override;
-
  private:
-  // Components (e.g. motor controllers and sensors) should generally be
-  // declared private and exposed only through public methods.
+  TalonSRX m_motorElevator;
+  TalonSRX m_motorHopper;
+  frc::TimeOfFlight m_sensorBottomPresence;
+  frc::TimeOfFlight m_sensorTopPresence;
 };

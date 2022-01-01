@@ -12,7 +12,6 @@ repos:
     -   id: check-shebang-scripts-are-executable
     -   id: check-symlinks
     -   id: check-yaml
-    -   id: end-of-file-fixer
     -   id: trailing-whitespace
 -   repo: https://github.com/dkt01/pre-commit-wpiformat
     rev: 0dd545e86828870ebdeb630731ab1a974a01dbc6
