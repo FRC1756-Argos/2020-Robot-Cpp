@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['updatestatus_309',['UpdateStatus',['../structargos__lib_1_1_xbox_controller_1_1_update_status.html',1,'argos_lib::XboxController']]]
+  ['robot_367',['Robot',['../class_robot.html',1,'']]],
+  ['robotcontainer_368',['RobotContainer',['../class_robot_container.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['joystickhand_451',['JoystickHand',['../classargos__lib_1_1_xbox_controller.html#a83b7ab61e8cdc0191694a1463276df91',1,'argos_lib::XboxController']]]
+  ['controlmode_570',['ControlMode',['../class_drive_subsystem.html#adbbe91a7fd62cf12702601070d50b6eb',1,'DriveSubsystem']]]
 ];

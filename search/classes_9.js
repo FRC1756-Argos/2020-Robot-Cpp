@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['xboxcontroller_311',['XboxController',['../classargos__lib_1_1_xbox_controller.html',1,'argos_lib']]]
+  ['updatestatus_374',['UpdateStatus',['../structargos__lib_1_1_xbox_controller_1_1_update_status.html',1,'argos_lib::XboxController']]]
 ];

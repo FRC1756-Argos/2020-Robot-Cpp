@@ -26,6 +26,7 @@ var NAVTREE =
 [
   [ "2020-Robot-Cpp", "index.html", [
     [ "Source", "md_src_argos_lib__readme.html", null ],
+    [ "Todo List", "todo.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -59,7 +60,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_constants_8h.html",
-"structargos__lib_1_1falcon__config_1_1has__forward_limit__device_i_d.html"
+"namespaceargos__lib.html#a6ce4f96310a8fed0c43bba8c5cdb31f1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

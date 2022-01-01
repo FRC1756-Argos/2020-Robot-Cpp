@@ -108,8 +108,13 @@ var annotated_dup =
       [ "InterpolationMap", "classargos__lib_1_1_interpolation_map.html", "classargos__lib_1_1_interpolation_map" ],
       [ "SwappableControllersSubsystem", "classargos__lib_1_1_swappable_controllers_subsystem.html", "classargos__lib_1_1_swappable_controllers_subsystem" ]
     ] ],
-    [ "ExampleCommand", "class_example_command.html", "class_example_command" ],
-    [ "ExampleSubsystem", "class_example_subsystem.html", "class_example_subsystem" ],
+    [ "ClimberSubsystem", "class_climber_subsystem.html", "class_climber_subsystem" ],
+    [ "ControlPanelSubsystem", "class_control_panel_subsystem.html", "class_control_panel_subsystem" ],
+    [ "DriveSubsystem", "class_drive_subsystem.html", "class_drive_subsystem" ],
+    [ "ElevatorSubsystem", "class_elevator_subsystem.html", "class_elevator_subsystem" ],
+    [ "IntakeSubsystem", "class_intake_subsystem.html", "class_intake_subsystem" ],
+    [ "PneumaticControlSubsystem", "class_pneumatic_control_subsystem.html", "class_pneumatic_control_subsystem" ],
     [ "Robot", "class_robot.html", "class_robot" ],
-    [ "RobotContainer", "class_robot_container.html", "class_robot_container" ]
+    [ "RobotContainer", "class_robot_container.html", "class_robot_container" ],
+    [ "ShooterSubsystem", "class_shooter_subsystem.html", "class_shooter_subsystem" ]
 ];
