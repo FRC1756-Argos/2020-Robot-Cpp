@@ -5,8 +5,8 @@
 #include "subsystems/control_panel_subsystem.h"
 
 /// @todo Load actual configuration
-ControlPanelSubsystem::ControlPanelSubsystem() : m_motorControlPanelRotate(0) {}
-// , m_sensorColor(frc::I2C::Port::kOnboard) {}
+ControlPanelSubsystem::ControlPanelSubsystem()
+    : m_motorControlPanelRotate(0), m_sensorColor(frc::I2C::Port::kOnboard) {}
 
 // This method will be called once per scheduler run
 void ControlPanelSubsystem::Periodic() {}

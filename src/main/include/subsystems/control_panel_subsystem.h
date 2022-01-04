@@ -7,7 +7,7 @@
 #include <ctre/Phoenix.h>
 #include <frc2/command/SubsystemBase.h>
 
-// #include <TMD37003.h>
+#include <TMD37003.h>
 
 class ControlPanelSubsystem : public frc2::SubsystemBase {
  public:
@@ -20,5 +20,5 @@ class ControlPanelSubsystem : public frc2::SubsystemBase {
 
  private:
   TalonSRX m_motorControlPanelRotate;
-  // frc::TMD37003 m_sensorColor; ///@todo figure out linking error with TMD37003 and frc::Color
+  frc::TMD37003 m_sensorColor;
 };
