@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"namespaceargos__lib.html#a489dff46429e8ae8064c6b37a744e2f5":[2,0,0,15],
 "namespaceargos__lib.html#a6ce4f96310a8fed0c43bba8c5cdb31f1":[2,0,0,13],
 "namespaceargos__lib.html#a8ed2d3f18efcdd9aa1e5b19535e380aa":[2,0,0,12],
 "namespaceargos__lib.html#a9bdc8d0bc40d923285b6350108692133":[2,0,0,18],

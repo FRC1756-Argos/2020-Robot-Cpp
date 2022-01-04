@@ -20,6 +20,7 @@ var NAVTREEINDEX0 =
 "class_climber_subsystem.html#ac2621d815a2f29d0c6a9573cec37489c":[3,0,1,2],
 "class_control_panel_subsystem.html":[3,0,2],
 "class_control_panel_subsystem.html#a289a64b6ffbd85bd6af9abf87ac6626d":[3,0,2,1],
+"class_control_panel_subsystem.html#a2b17d95c23c4f26e5e9175ce2e0a62da":[3,0,2,3],
 "class_control_panel_subsystem.html#a7cc290e918113dd87ed6254917c363c3":[3,0,2,2],
 "class_control_panel_subsystem.html#aafe352e5b0bceb96f97a7987411c2329":[3,0,2,0],
 "class_drive_subsystem.html":[3,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "main_8cpp.html":[4,0,0,2,0,0],
 "main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[4,0,0,2,0,0,0],
 "md_src_argos_lib__readme.html":[0],
-"namespaceargos__lib.html":[2,0,0],
-"namespaceargos__lib.html#a489dff46429e8ae8064c6b37a744e2f5":[2,0,0,15]
+"namespaceargos__lib.html":[2,0,0]
 };
